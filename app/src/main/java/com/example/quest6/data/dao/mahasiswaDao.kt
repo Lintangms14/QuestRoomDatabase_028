@@ -1,6 +1,7 @@
 package com.example.quest6.data.dao
 
 import androidx.room.Dao
+import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Update
 import com.example.quest6.data.entity.mahasiswa
@@ -12,4 +13,7 @@ interface mahasiswaDao {
 
     @Update
     suspend fun updateMahasiswa(mahasiswa: mahasiswa)
+
+    @Delete
+    suspend fun deleteMahasiswa(mahasiswa: mahasiswa)
 }
