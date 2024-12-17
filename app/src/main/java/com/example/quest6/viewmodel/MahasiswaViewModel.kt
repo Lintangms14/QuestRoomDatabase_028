@@ -1,4 +1,4 @@
-package com.example.quest6.ui.theme.viewmodel
+package com.example.quest6.viewmodel
 
 import androidx.compose.runtime.currentComposer
 import androidx.compose.runtime.getValue

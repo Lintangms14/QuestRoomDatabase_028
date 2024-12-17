@@ -27,11 +27,11 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.quest6.ui.customwidget.TopAppBar
 import com.example.quest6.ui.navigation.alamatnavigation
-import com.example.quest6.ui.theme.viewmodel.FormErrorState
-import com.example.quest6.ui.theme.viewmodel.MahasiswaEvent
-import com.example.quest6.ui.theme.viewmodel.MahasiswaViewModel
-import com.example.quest6.ui.theme.viewmodel.MhsUIState
-import com.example.quest6.ui.theme.viewmodel.PenyediaViewModel
+import com.example.quest6.viewmodel.FormErrorState
+import com.example.quest6.viewmodel.MahasiswaEvent
+import com.example.quest6.viewmodel.MahasiswaViewModel
+import com.example.quest6.viewmodel.MhsUIState
+import com.example.quest6.viewmodel.PenyediaViewModel
 import kotlinx.coroutines.launch
 
 @Preview(showBackground = true)
@@ -162,10 +162,10 @@ fun FormMahasiswa(
 
 @Composable
 fun InsertBodyMhs(
-  modifier: Modifier = Modifier,
-  onValueChange: (MahasiswaEvent) -> Unit,
-  uiState: MhsUIState,
-  onClick: () -> Unit
+    modifier: Modifier = Modifier,
+    onValueChange: (MahasiswaEvent) -> Unit,
+    uiState: MhsUIState,
+    onClick: () -> Unit
 ){
     Column (
         modifier = modifier.fillMaxWidth(),

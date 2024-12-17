@@ -1,4 +1,4 @@
-package com.example.quest6.ui.theme.viewmodel
+package com.example.quest6.viewmodel
 
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewmodel.CreationExtras
