@@ -1,0 +1,6 @@
+![HalamanHome](https://github.com/user-attachments/assets/300d77c5-fec8-46d0-887f-7c7e48fa6d2d)
+![HalamanTambah](https://github.com/user-attachments/assets/188893c2-7bec-40ed-bafc-85ed4e5f2b1d)
+![SesudahTambah](https://github.com/user-attachments/assets/31a185a5-47a8-4be8-b7b0-e80cd2867b1e)
+![HalamanEdit](https://github.com/user-attachments/assets/0307d461-87e3-447d-8772-bf222baac049)
+![Delete](https://github.com/user-attachments/assets/248a3c4a-72b9-4c0c-98a4-1141713d569a)
+![SesudahDelete](https://github.com/user-attachments/assets/e3f0eb07-1942-4524-a15a-42da478f08b5)
